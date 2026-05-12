@@ -1,0 +1,12 @@
+C:\Users\citstudent\Documents\C# 2\New folder\midterm_Professor\midterm_master\Midterm_Core5\ProfessorClasses\bin\Debug\net5.0\ProfessorClasses.deps.json
+C:\Users\citstudent\Documents\C# 2\New folder\midterm_Professor\midterm_master\Midterm_Core5\ProfessorClasses\bin\Debug\net5.0\ProfessorClasses.dll
+C:\Users\citstudent\Documents\C# 2\New folder\midterm_Professor\midterm_master\Midterm_Core5\ProfessorClasses\bin\Debug\net5.0\ProfessorClasses.pdb
+C:\Users\citstudent\Documents\C# 2\New folder\midterm_Professor\midterm_master\Midterm_Core5\ProfessorClasses\obj\Debug\net5.0\ProfessorClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\citstudent\Documents\C# 2\New folder\midterm_Professor\midterm_master\Midterm_Core5\ProfessorClasses\obj\Debug\net5.0\ProfessorClasses.AssemblyInfoInputs.cache
+C:\Users\citstudent\Documents\C# 2\New folder\midterm_Professor\midterm_master\Midterm_Core5\ProfessorClasses\obj\Debug\net5.0\ProfessorClasses.AssemblyInfo.cs
+C:\Users\citstudent\Documents\C# 2\New folder\midterm_Professor\midterm_master\Midterm_Core5\ProfessorClasses\obj\Debug\net5.0\ProfessorClasses.csproj.CoreCompileInputs.cache
+C:\Users\citstudent\Documents\C# 2\New folder\midterm_Professor\midterm_master\Midterm_Core5\ProfessorClasses\obj\Debug\net5.0\ProfessorClasses.sourcelink.json
+C:\Users\citstudent\Documents\C# 2\New folder\midterm_Professor\midterm_master\Midterm_Core5\ProfessorClasses\obj\Debug\net5.0\ProfessorClasses.dll
+C:\Users\citstudent\Documents\C# 2\New folder\midterm_Professor\midterm_master\Midterm_Core5\ProfessorClasses\obj\Debug\net5.0\refint\ProfessorClasses.dll
+C:\Users\citstudent\Documents\C# 2\New folder\midterm_Professor\midterm_master\Midterm_Core5\ProfessorClasses\obj\Debug\net5.0\ProfessorClasses.pdb
+C:\Users\citstudent\Documents\C# 2\New folder\midterm_Professor\midterm_master\Midterm_Core5\ProfessorClasses\obj\Debug\net5.0\ref\ProfessorClasses.dll

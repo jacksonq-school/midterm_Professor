@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X9S+kyHidCs=",
+  "dgSpecHash": "cygE9saQm5s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\citstudent\\Downloads\\midterm_master (1)\\midterm_master\\Midterm_Core5\\ProfessorClasses\\ProfessorClasses.csproj",
+  "projectFilePath": "C:\\Users\\citstudent\\Documents\\C# 2\\New folder\\midterm_Professor\\midterm_master\\Midterm_Core5\\ProfessorClasses\\ProfessorClasses.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\citstudent\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\citstudent\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
