@@ -1,0 +1,15 @@
+C:\Users\citstudent\Downloads\midterm_master (1)\midterm_master\Midterm_Core5\Palindrome\bin\Debug\net5.0\Palindrome.exe
+C:\Users\citstudent\Downloads\midterm_master (1)\midterm_master\Midterm_Core5\Palindrome\bin\Debug\net5.0\Palindrome.deps.json
+C:\Users\citstudent\Downloads\midterm_master (1)\midterm_master\Midterm_Core5\Palindrome\bin\Debug\net5.0\Palindrome.runtimeconfig.json
+C:\Users\citstudent\Downloads\midterm_master (1)\midterm_master\Midterm_Core5\Palindrome\bin\Debug\net5.0\Palindrome.runtimeconfig.dev.json
+C:\Users\citstudent\Downloads\midterm_master (1)\midterm_master\Midterm_Core5\Palindrome\bin\Debug\net5.0\Palindrome.dll
+C:\Users\citstudent\Downloads\midterm_master (1)\midterm_master\Midterm_Core5\Palindrome\bin\Debug\net5.0\Palindrome.pdb
+C:\Users\citstudent\Downloads\midterm_master (1)\midterm_master\Midterm_Core5\Palindrome\obj\Debug\net5.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\citstudent\Downloads\midterm_master (1)\midterm_master\Midterm_Core5\Palindrome\obj\Debug\net5.0\Palindrome.AssemblyInfoInputs.cache
+C:\Users\citstudent\Downloads\midterm_master (1)\midterm_master\Midterm_Core5\Palindrome\obj\Debug\net5.0\Palindrome.AssemblyInfo.cs
+C:\Users\citstudent\Downloads\midterm_master (1)\midterm_master\Midterm_Core5\Palindrome\obj\Debug\net5.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\citstudent\Downloads\midterm_master (1)\midterm_master\Midterm_Core5\Palindrome\obj\Debug\net5.0\Palindrome.dll
+C:\Users\citstudent\Downloads\midterm_master (1)\midterm_master\Midterm_Core5\Palindrome\obj\Debug\net5.0\refint\Palindrome.dll
+C:\Users\citstudent\Downloads\midterm_master (1)\midterm_master\Midterm_Core5\Palindrome\obj\Debug\net5.0\Palindrome.pdb
+C:\Users\citstudent\Downloads\midterm_master (1)\midterm_master\Midterm_Core5\Palindrome\obj\Debug\net5.0\Palindrome.genruntimeconfig.cache
+C:\Users\citstudent\Downloads\midterm_master (1)\midterm_master\Midterm_Core5\Palindrome\obj\Debug\net5.0\ref\Palindrome.dll
